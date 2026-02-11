@@ -1,0 +1,27 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environment (ห้ามอัปโหลดเด็ดขาด) ---
+venv/
+.venv/
+env/
+
+# --- PyInstaller (ที่เพิ่งสร้างเมื่อกี้) ---
+build/
+dist/
+*.spec
+
+# --- Sora AI Specifics ---
+*.mp3
+*.wav
+# (ถ้ามีไฟล์เสียงชั่วคราวอื่นๆ เพิ่มตรงนี้ได้)
+
+# --- IDE Settings (VS Code) ---
+.vscode/
+.idea/
+
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db
