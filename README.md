@@ -1,4 +1,4 @@
-# 👩🏻 Sora AI Assistant
+# 🌠 Sora AI Assistant
 
 Sora is a local desktop AI assistant built with **Python**, **Flet**, and **Ollama**.
 
